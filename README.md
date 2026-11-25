@@ -38,6 +38,3 @@ Antes de enviar os dados para a Inteligência Artificial gerar o código, a plan
 * **Ferramenta utilizada:** ChatGPT com recurso Canvas / Agente personalizado com Skill de Dashboard / Ambos para comparação].
 * **Identidade Visual:** Paleta inspirada na identidade clássica da Porsche (tons de preto/grafite escuro, vermelho corrida, branco e detalhes em cinza metálico) com tipografia moderna e limpa.
 
-### Prompt Inicial Utilizado
-```text
-[Cole aqui o prompt principal que você escreveu para gerar a primeira versão da dashboard]
